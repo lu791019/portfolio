@@ -4,21 +4,21 @@ vCard - Personal Portfolio
 
 alt = Richard hanrick
 Richard hanrick
-Web developer
+Data Engineer & Back-End Developer
 
 Show Contacts
 
 Email
-richard@example.com
+lu791019@gmail.com
 
 Phone
-+1 (213) 352-2795
++886 
 
 Birthday
-June 23, 1982
+Oct 19, 1990
 
 Location
-Sacramento, California, USA
+Taiwan
 
 # navbar
 
